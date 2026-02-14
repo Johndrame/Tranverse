@@ -1,6 +1,6 @@
 import React from 'react'
 import Rectangle from '../../src/assets/Rectangle 17.png'
-import Sofa from '../../src/assets/cart2.png'
+import Sofa from '../assets/Cart2.png'
 import Pendant from  '../../src/assets/cart101.png'
 import Pendant2 from '../../src/assets/Cart105.png'
 import Rolex from '../../src/assets/cart103.png'
